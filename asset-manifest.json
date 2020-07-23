@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aviblogger/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/aviblogger/static/js/main.e1a37fca.chunk.js",
+    "main.js.map": "/aviblogger/static/js/main.e1a37fca.chunk.js.map",
+    "runtime-main.js": "/aviblogger/static/js/runtime-main.6cdb12d1.js",
+    "runtime-main.js.map": "/aviblogger/static/js/runtime-main.6cdb12d1.js.map",
+    "static/js/2.7ae12c9d.chunk.js": "/aviblogger/static/js/2.7ae12c9d.chunk.js",
+    "static/js/2.7ae12c9d.chunk.js.map": "/aviblogger/static/js/2.7ae12c9d.chunk.js.map",
+    "index.html": "/aviblogger/index.html",
+    "precache-manifest.dfcf5de7177499d5b90b5f1659baaa65.js": "/aviblogger/precache-manifest.dfcf5de7177499d5b90b5f1659baaa65.js",
+    "service-worker.js": "/aviblogger/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/aviblogger/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7ae12c9d.chunk.js.LICENSE.txt": "/aviblogger/static/js/2.7ae12c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cdb12d1.js",
+    "static/js/2.7ae12c9d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e1a37fca.chunk.js"
+  ]
+}
